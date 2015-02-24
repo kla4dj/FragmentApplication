@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/classes-220a3804464ced66fbb796c30a4849af83abcf0c.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-d556c7d76a3a4c8a75bf3ffe7758edeb29658bc9.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/classes-d094b5b4b9486d399ecf0aa56b8bbdc1f96bc2d0.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/classes-c2784ec6ffc801ad5a7f3ab856414b3a6256f132.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/classes-7a597c6ed8b352c97f1fe70a0b61e875b44a6dba.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/classes-70c147b0d6b159b959edd3dbcc658709172e0cc0.jar" />
+    </item>
+    <item
+        jar="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/Deniz/AndroidStudioProjects/FragmentApplication/wear/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-2cbf73a00842ab037734913bf4a857bcbbc10a68.jar" />
+    </item>
+
+</items>

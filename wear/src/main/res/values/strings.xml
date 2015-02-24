@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentApplication</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+
+    <string name="buttonselection">user selection</string>
+    <string name="delayedinformation">Delayed Information</string>
+    <string name="textview_what">What do you want to do?</string>
+    <string name="msg_success">Success</string>
+    <string name="msg_fail">Fail</string>
+    <string name="workerselection_title">Login</string>
+    <string name="user1">User 1</string>
+    <string name="user2">User 2</string>
+    <string name="user3">User 3</string>
+    <string name="user4">User 4</string>
+    <string name="user5">User 5</string>
+    <string name="title">User login</string>
+
+</resources>
